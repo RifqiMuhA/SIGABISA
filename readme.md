@@ -25,14 +25,7 @@
   - `POVERTY`: Tingkat kemiskinan  
   - `NOELECTRIC`: Tidak memiliki akses listrik  
   - `ELDERLY`: Persentase lansia
-
-## Teknologi yang Digunakan
-- **Backend**: R Shiny  
-- **Visualisasi**: Plotly, Leaflet, ggplot2  
-- **Clustering**: K-Means dan FGWC dengan spatial constraint  
-- **Analisis Statistik**: ANOVA dan uji post-hoc  
-- **Pengolahan Data**: dplyr, tidyr
-
+  
 ## Struktur Analisis
 
 ### 1. Analisis ANOVA
